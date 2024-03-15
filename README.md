@@ -1,6 +1,3 @@
-# Marcas
+# Lenguaje de Marcas
 
-Ejercicios para `Github Classroom`
-
-- Flexbox Froggy: https://classroom.github.com/a/UeHgTQ59
-- Grid Garden: https://classroom.github.com/a/-w8b51Gf
+Web para la asignatura de Lenguaje de Marcas de 1º de ASIR
